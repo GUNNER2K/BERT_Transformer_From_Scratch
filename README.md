@@ -1,26 +1,7 @@
 # BERT (Bidirectional Encoder Representations from Transformers) Implementation With PyTorch
 
-<div align="center">
-    <a href="">
-        <img alt="open-source-image"
-		src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-    </a>
-</div>
-<br/>
-<div align="center">
-    <p>Liked our work? give us a ⭐!</p>
-</div>
-
-<p align="center">
-  <img src="./assets/arc.png" height="70%" width="70%"/>
-</p>
 
 This repository contains minimalistic implementation of BERT (Bidirectional Encoder Representations from Transformers) that is introduced in the paper [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) using PyTorch. 
-
-### YouTube Tutorial
-This repository also contains a corresponding YouTube tutorial with the title **Implement BERT From Scratch - PyTorch**
-
-[![Thumbnail](./assets/thumbnail.png)](https://www.youtube.com/watch?v=v5cyVwAXR1I&t=9s)
 
 ## Table of Contents
 * [BERT Implementation](#vitimp)
@@ -83,7 +64,3 @@ class BERTEmbedding(nn.Module):
 ## Usage <a class="anchor" id="usage"></a>
 
 You can edit the parameters as you like to mimic your input dimensions. You can run `BERT.py` file directly.
-
-## Contact <a class="anchor" id="contact"></a>
-You can contact me with this email address: uygarsci@gmail.com
-"# BERT_Transformer_From_Scratch" 
